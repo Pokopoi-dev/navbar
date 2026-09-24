@@ -1,0 +1,26 @@
+body {
+	margin: 0;
+	font-family: Arial, sans-serif;
+	background: #f0f0f0;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+h3 {
+    font-size: 32px;
+}
+
+.footer {
+    background: #2458e5;
+    padding: 20px;
+}
+
+.text-footer {
+    text-align: center;
+    color: #fff;
+}
